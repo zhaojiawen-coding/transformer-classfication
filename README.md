@@ -32,11 +32,12 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Baidu|FastText|95|-|0.421|0.234|epoch 1000, ngram 5, dim 50|
 |Baidu|TextCnn|95|-|0.82478|0.578|epoch 10, lr 0.005, padding 128|
-
-
-#todo
-目前只尝试整理了transformer部分，需要时间完全整理
 |Baidu|GCN|95|-|0.8755|0.6914|gcn|
 |Baidu|Transformer|95|-|0.90403605|0.79695547|transformer|
 |Baidu|BERT|21|0.7958|0.941|0.163|BERT 3 layers labels result|
 |Baidu|BERT|95|0.5788|0.917|0.781|only BERT|
+
+
+
+# todo
+目前只尝试整理了transformer部分，需要时间完全整理
